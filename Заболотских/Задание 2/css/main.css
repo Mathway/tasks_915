@@ -1,18 +1,149 @@
 .logo{
     display: flex;
-    margin-left: 10%;
-    margin-top: 3%;
+    margin-left: 235px;
+    margin-top: 120px;
 }
 .menu{
     display: flex;
     justify-content: flex-end;
-    margin-top: -50px;
+    margin-top:-60px;
     justify-content: space-between;
     margin-left: 50%;
-    margin-right: 10%;
+    margin-right: 13%;
+    align-items: center;
 }
-.button{
+.button_1{
     border-radius: 25px;
-    height: 50px;
-    width: 132px;
+    height: 55px;
+    width: 154px;
+    background-color: white;
+    color:#FF383D ;
+    border: 2px solid #FB4C47;
+    font-weight: bold;
+}
+.text_menu{
+    font-size:18px;
+
+}
+.a_1:hover{
+    color: red;
+    
+}
+.content_header{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+}
+.stay_at_home{
+    margin-top: 150px;
+}
+.stay_at_home > span{
+    color:#FA5652 ;
+    font-weight:bold;
+    font-size:32px;  
+}
+.stay_at_home > h1{
+    color:#035755;
+    font-weight: bold;
+    font-size:52px;
+}
+.stay_at_home > .text{
+    color:#4B4F51;
+    font-size: 24px;
+}
+.button_2{
+    background-color:#FB4C47;
+    width:250px;
+    height: 80px;
+    top: 833px;
+    left: 243px;
+    border-radius:65px;
+    border:#FB4C47;
+    color:#ffffff;
+    font-size:24px;
+    font-weight:bold;
+}
+.main_1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    align-items: center;
+    margin-right:220px;
+    
+}
+.content_1 > span {
+    font-size: 29px;
+    color: #FA5652;
+    font-weight: bold;
+} 
+.content_1 > h2 {
+    color: #035755;
+    font-size: 50px;
+    font-weight: bold;
+}
+.content_1 > p{
+    color: #4B4F51;
+    font-size: 20px;
+}
+.button_3{
+    position: absolute;
+    width: 200px;
+    height: 65px;
+    background: rgba(250, 86, 82, 0.15);
+    border-radius: 65px;
+    border:  rgba(250, 86, 82, 0.15) ;
+    color: #FA5652;
+    font-size:20px;
+    font-weight: bold;
+}
+.virus_2{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -550px;
+    margin-right:-10px;
+}
+.Contagion > span{
+    display: flex;
+    justify-content: center;
+    color: #FA5652;
+    font-size:29px;
+    font-weight: bold;
+}
+.Contagion >h2{
+    display: flex;
+    justify-content: center;
+    color: #035755;
+    font-size: 50px;
+    font-weight:bold;
+}
+.Contagion >p{
+    display: flex;
+    justify-content: center;
+    color: #4B4F51;
+    font-size: 18px;
+}
+.Contagion_main{
+    display: flex;
+    justify-content: center;
+}
+.Contagion_1{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    margin-top: 20px;
+    
+}
+.Contagion_2{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+.Contagion_3{
+    display: flex;
+    flex-direction: column;
+}   
+.text_contagion_main > .text{
+    display: flex;
+    justify-content: center;
 }
