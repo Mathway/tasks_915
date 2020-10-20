@@ -1,7 +1,10 @@
+.body{
+    background-color: #E5E5E5;
+}
 .logo{
     display: flex;
     margin-left: 235px;
-    margin-top: 120px;
+    margin-top: 50px;
 }
 .menu{
     display: flex;
@@ -34,6 +37,9 @@
     align-items: center;
     justify-content: flex-end;
     
+}
+.girl{
+
 }
 .stay_at_home{
     margin-top: 150px;
@@ -97,6 +103,21 @@
     font-size:20px;
     font-weight: bold;
 }
+.content_c1{
+    margin-top: 25%;
+}
+.Contagion_1{
+    width: 460px;
+    height: 575px;
+    display: block;
+    text-align: center;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 0px 91px -30px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 91px -30px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 91px -30px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    margin-top: 10px;
+}
 .virus_2{
     display: flex;
     justify-content: flex-end;
@@ -117,7 +138,7 @@
     font-size: 50px;
     font-weight:bold;
 }
-.Contagion >p{
+.text_contagion_main{
     display: flex;
     justify-content: center;
     color: #4B4F51;
@@ -126,24 +147,11 @@
 .Contagion_main{
     display: flex;
     justify-content: center;
+    align-items: flex-end;
 }
-.Contagion_1{
-    display: flex;
-    flex-direction: column;
-    margin-right: 30px;
-    margin-top: 20px;
-    
+.Contagion_main > p {
+    color:#4B4F51 ;
+    font-size: 18px;
 }
-.Contagion_2{
-    display: flex;
-    flex-direction: column;
-    margin-right: 30px;
-}
-.Contagion_3{
-    display: flex;
-    flex-direction: column;
-}   
-.text_contagion_main > .text{
-    display: flex;
-    justify-content: center;
-}
+.Contagion_main > h2 
+
