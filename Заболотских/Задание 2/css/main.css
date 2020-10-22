@@ -135,6 +135,8 @@
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    margin-left: 240px;
+    
 }
 .Contagion_main > p {
     color:#4B4F51 ;
@@ -193,9 +195,17 @@
     position: relative;
 }
 .virus_3{
+    display: flex;
+    justify-content: center;
     position: absolute;
-    left: -1525px;
+    left: -1545px;
     z-index:2;
+}
+.Symptoms{
+    display: flex;
+    justify-content:flex-end;
+    justify-content: center;
+    margin-top:200px;
 }
 
 
