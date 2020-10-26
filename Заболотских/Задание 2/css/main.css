@@ -235,7 +235,7 @@
     display: flex;
     justify-content: center;
     position: absolute;
-    left: -1545px;
+    left: -91%;
     z-index:2;
 }
 .Symptoms > span {
@@ -286,9 +286,112 @@
     font-size: 18px;
     font-weight: normal;
     color: #4B4F51;
+}
+.Wear_Mask{
+    display: flex;
+    justify-content: center;
+}
+.Wear_Mask_text{
+    display: flex;
+    flex-direction: column;
+    margin-right: 150px;
+    margin-top: 150px;
+}
+.H3_circle_01{
+    font-size:47px ;
+    color: #035755;
+    font-weight: bold;
+}
+.Wear_Mask_text > p{
+    font-size: 18px;
+    font-weight: normal;
+    color: #4B4F51;
+}
+.Circle_h3{
+    display: flex;
+    align-items: center;
+}
+.Circle_01{
+    margin-left: -110px;
+}
+.H3_circle_01{
+    margin-left: 34px;
+}
+.Virus_4{
+    margin-top: -250px;
+}
+.Wash{
+    display: flex;
+    justify-content: center;
+}
+.Girl_wash{
+    margin-left: -200px ;
+}
+.Girl_wash_text{
+    margin-left: 250px;
+    margin-top: 170px;
+}
+.H3_circle_02 > h3{
+    color: #035755;
+    font-size: 47px;
+    font-weight: bold;
+}
+.Girl_wash_text > p{
+    color: #4B4F51;
+    font-size: 18px;
+    font-weight: normal;
+}
+.Circle_02_h3{
+    display: flex;
+    justify-content: center;
+    margin-right: 
     
 }
+.Circle_02{
+    margin-left: -200px; 
+}
+.H3_circle_02{
+    margin-left: 34px;
+}
+.Nose_rage{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
 
+}
+.Girl_nose_rage{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -350px;
+    margin-right: 13%;
+}
+.Nose_rage_text{
+    margin-right: 270px;
+}
+.Circle_03_h3{
+    display: flex;
+    margin-right: 550px;
+}
+.H3_circle_03 > h3{
+    color: #035755;
+    font-size: 47px;
+    font-weight: bold;
+}
+.Nose_rage_text > p{
+    color: #4B4F51;
+    font-size: 18px;
+    font-weight: normal;
+}
+.Circle_03_h3{
+    display: flex;
+    align-items: center;
+}
+.Circle_03{
+    margin-left: -110px;
+}
+.H3_circle_03{
+    margin-left: 34px;
+}
 
 
 
