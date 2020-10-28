@@ -361,9 +361,9 @@
 }
 .Girl_nose_rage{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     margin-top: -350px;
-    margin-right: 13%;
+    margin-left: 850px;
 }
 .Nose_rage_text{
     margin-right: 270px;
@@ -392,7 +392,49 @@
 .H3_circle_03{
     margin-left: 34px;
 }
+.Avoid_contacts{
+    display: flex;
+    justify-content: center;
+}
+.Avoid_contacts_text{
+    margin-top: 220px;
+    margin-right: 200px;
+}
+.Circle_04_h3{
+    display: flex;
+}
+.H3_circle_04 > h3 {
+    font-size:47px ;
+    color:#035755;
+    font-weight: bold;
+}
+.Circle_04{
+    margin-left: -110px;
+}
+.H3_circle_04{
+    margin-left: 34px;
+}
+.Avoid_contacts_girl{
+    display: flex;
+    margin-right: 150px;
 
-
-
-
+}
+.Virus_5{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -700px;
+}
+.Avoid_contacts_text > p{
+    color: #4B4F51;
+    font-size:18px ;
+    font-weight: normal;
+}
+.Live_reports{
+    display: flex;
+    margin-top: 120px;
+    justify-content: center;
+}
+.Question{
+    display: flex;
+    justify-content: center;
+}
