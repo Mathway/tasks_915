@@ -436,5 +436,39 @@
 }
 .Question{
     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Question > h2{
+    color: #0C6C44;
+    font-size: 64px;
+}
+.Email{
+    width: 790px;
+    height: 114px;
+    border-radius: 60px;
+    border: 2px solid #ffffff ;
+    -webkit-box-shadow: 0px 0px 91px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 91px -3px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 91px -40px rgba(0,0,0,0.75);
+    margin-top: 30px;
+
+}
+.downnav{
+    background: linear-gradient(360deg, rgba(255, 241, 241, 0.5) 0%, rgba(255, 241, 241, 0) 108.69%);
+}
+.btn_4{
+    color: #ffffff;
+    width: 209px;
+    height: 78px;
+    border-radius: 157px;
+    background-color: #F44A45;
+    font-size: 22px;
+    border: 2px solid #F44A45;
+}
+.btn_4_Send{
+    display: flex;
     justify-content: center;
+    margin-top: -95px;
+    margin-right: -550px;
 }
