@@ -472,3 +472,72 @@
     margin-top: -95px;
     margin-right: -550px;
 }
+.Virus_6{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -250px;
+}
+.footer_menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footer_menu_text{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.Footer_menu_img{
+    display: flex;
+    justify-content: center;
+    margin-left: 225px;
+}
+.Overview_1{
+    margin-right: 60px;
+    font-size: 23px;
+    
+    
+}
+.Symptoms_1{
+    margin-right: 60px;
+    font-size: 23px;
+    
+}
+.Prevention_1{
+    margin-right: 60px;
+    font-size: 23px;
+    
+}
+.Treatment_1{
+    font-size: 23px;
+}
+.footer_img_2{
+    margin-left: 45px;
+}
+.footer_img_3{
+    margin-left: 45px;
+}
+.footer_img_4{
+    margin-left: 45px;
+}
+.logo_footer{
+    margin-left: -150px;
+}
+  
+}
+.Treatment_2{
+    color:#00402E;
+    text-decoration: none;
+}
+.Overview_2{
+    color: #00402E;
+    text-decoration: none;
+}
+.Symptoms_2{
+    color: #00402E;
+    text-decoration: none;
+}
+.Prevention_2{
+    color: #00402E;
+    text-decoration: none;
+}
