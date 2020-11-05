@@ -3,17 +3,32 @@
 }
 .logo{
     display: flex;
-    margin-left: 235px;
+    justify-content: center;
+    margin-left: -1300px;
     margin-top: 50px;
+}
+.text_menu{
+    text-decoration: none;
 }
 .menu{
     display: flex;
-    justify-content: flex-end;
+    
     margin-top:-60px;
-    justify-content: space-between;
-    margin-left: 50%;
-    margin-right: 13%;
+    justify-content: center;
+    margin-left: 550px;
     align-items: center;
+}
+.Overview{
+    margin-right: 48px;
+}
+.Contagion{
+    margin-right: 48px;
+}
+.Symptoms{
+    margin-right: 48px;
+}
+.Prevention{
+    margin-right:40px ;
 }
 .button_1{
     border-radius: 25px;
@@ -35,7 +50,7 @@
 .content_header{
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     
 }
 
@@ -76,11 +91,14 @@
 }
 .main_1{
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: flex-start;
     align-items: center;
     margin-right:220px;
     
+}
+.content_1{
+    margin-left: -100px;
 }
 .content_1 > span {
     font-size: 29px;
@@ -344,7 +362,7 @@
 .Circle_02_h3{
     display: flex;
     justify-content: center;
-    margin-right: 
+    margin-right:70px; 
     
 }
 .Circle_02{
@@ -523,12 +541,7 @@
 .logo_footer{
     margin-left: -150px;
 }
-  
-}
-.Treatment_2{
-    color:#00402E;
-    text-decoration: none;
-}
+
 .Overview_2{
     color: #00402E;
     text-decoration: none;
@@ -540,4 +553,41 @@
 .Prevention_2{
     color: #00402E;
     text-decoration: none;
+}
+.Treatment_2{
+    color:#00402E;
+    text-decoration: none;
+}
+.Overview_text{
+    color: #035755;
+}
+.Contagion_text{
+    color: #035755;
+}
+.Symptoms_text{
+    color: #035755;
+}
+.Prevention_text{
+    color: #035755;
+}
+h1{
+    font-family: 'Red Hat Display', sans-serif;
+}
+h2{
+    font-family: 'Red Hat Display', sans-serif;
+}
+h3{
+    font-family: 'Red Hat Display', sans-serif;
+}
+h4{
+    font-family: 'Red Hat Display', sans-serif;
+}
+h5{
+    font-family: 'Red Hat Display', sans-serif;
+}
+span{
+    font-family: 'Red Hat Display', sans-serif;
+}
+p{
+    font-family: 'Work Sans', sans-serif;
 }
